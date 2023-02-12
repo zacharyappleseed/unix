@@ -1,0 +1,1 @@
+[[ " ${array[*]} " =~ " ${value} " ]] && echo "true" || echo "false"
